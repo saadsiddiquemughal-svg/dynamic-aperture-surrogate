@@ -1,0 +1,2 @@
+total_seconds=3.50
+seconds_per_da_evaluation=0.0009
